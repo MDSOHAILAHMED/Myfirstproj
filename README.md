@@ -1,5 +1,5 @@
-# Myfirstproj
-Image editor using machine learning using python
+# Myfirstproj on Machine Learning
+
 INTRODUCTION
 Simple image editing and face Detection Project written in Python. The project film contains a python script.This system is based on a simple user interface, which is very easy to understand and it contains basic functionality that allows to:-
 
